@@ -96,7 +96,8 @@ border:#1F2937 solid;
 
 #product-banner{
     height: 500px;
-    width: 600px;   
+    width: 600px; 
+    border-radius: 10px;
     image-rendering: optimizeSpeed;
     box-shadow: 3px 4px 6px darkcyan;
 }
